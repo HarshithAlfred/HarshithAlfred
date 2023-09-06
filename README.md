@@ -3,20 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithalfred&label=Profile%20views&color=0e75b6&style=flat" alt="harshithalfred" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshithalfred&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="harshithalfred" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshithalfred" alt="harshithalfred" /></a> </p>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithalfred&layout=donut&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="harshithalfred" />
+</p>
 
 - 🔭 I’m currently working on **Digitomize**
 
-- 🌱 I’m currently learning **Node.js , Mongodb**                              <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username=harshithalfred&layout=donut" alt="harshithalfred" />
-
+- 🌱 I’m currently learning **Node.js , Mongodb**
+-
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **harshithalfred@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsith alfred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsith alfred" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshith alfred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshith alfred" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshith-alfred-99042725a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsith alfred" height="30" width="40" /></a>
+<a href="https://leetcode.com/Harshith_Alfred/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshith alfred" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshithalfred&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="harshithalfred" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithalfred&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="harshithalfred" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=harshithalfred&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="harshithalfred" /></p>
+
+
+
