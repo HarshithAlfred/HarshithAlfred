@@ -31,5 +31,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=harshithalfred&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="harshithalfred" /></p>
 
+ ![Snake animation](https://github.com/harshithalfred/harshithalfred/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
