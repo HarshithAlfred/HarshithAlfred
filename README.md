@@ -30,12 +30,9 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsith alfred" height="30" width="40" />
 </a>
 <a href="https://wa.me/qr/4KEWHZ2V7UGVO1" target="blank"> 
-<img align="center" src="https://github.com/HarshithAlfred/HarshithAlfred/assets/120769092/6d9f1293-3859-4189-a6e6-eb051116f58a" alt="Harshith Alfred" width="40"> 
+<img align="center" src="https://github.com/HarshithAlfred/HarshithAlfred/assets/120769092/42e441d8-fed1-4828-8293-c48b856951bf" alt="Harshith Alfred" width="40"> 
 </a>
-
 </p>
-
-
 ## 💻 Tech Stack:
 <p align="center">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
