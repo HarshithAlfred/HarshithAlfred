@@ -1,30 +1,40 @@
+
+
+
+![Purple Gradient Digital Marketing LinkedIn Banner](https://github.com/HarshithAlfred/HarshithAlfred/assets/120769092/bbbb2038-85e4-4ba8-a6c6-9097444d555c)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Harshith Alfred</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=harshithalfred&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshithalfred&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=harshithalfred&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="120" style="margin-right: 40px;"/>   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
+
 
   
 
-- 🔭 I’m currently working on **Digitomize**
+- 🔭 I’m currently working on **Digitomize**                  
 
 - 🌱 I’m currently learning **Node.js , Mongodb**
--
 - 💬 Ask me about **Front end**
 
-- 📫 How to reach me **harshithalfred@gmail.com**
+- 📫 How to reach me **harshithalfred@gmail.com**                                                    
 
-## **Connect 🌐 with me:**
+## **Connect 🌐 with me:**                                                                                     
 <p align="left">
 <a href="https://www.linkedin.com/in/harshith-alfred-99042725a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsith alfred" height="30" width="40" /></a>
-<a href="https://wa.me/qr/4KEWHZ2V7UGVO1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="harsith alfred" height="30" width="40" /></a>
+
+  <a href="https://wa.me/qr/4KEWHZ2V7UGVO1" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/HarshithAlfred/HarshithAlfred/main/assets/120769092/f1ff4678-711b-46c6-978e-f51044612035.png" alt="Harshith Alfred" width="40" /> </a>
+
 </p>
-<p>
-<a href="https://www.linkedin.com/in/harshith-alfred-99042725a" target="blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="harsith alfred" width="100" /> </a>
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"/> </p>
+
+
+
 ## 💻 Tech Stack:
 <p align="center">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
