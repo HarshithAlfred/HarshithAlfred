@@ -16,6 +16,8 @@
 
 
   
+[![An image of @harshithalfred's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshithalfred)](https://holopin.io/@harshithalfred)
+
 
 - 🔭 I’m currently working on **Digitomize**                  
 
@@ -64,7 +66,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshithalfred&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshithalfred&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api?username=harshithalfred&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
 <p align="center"> 
