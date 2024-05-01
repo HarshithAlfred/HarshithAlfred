@@ -19,9 +19,9 @@
 [![An image of @harshithalfred's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshithalfred)](https://holopin.io/@harshithalfred)
 
 
-- 🔭 I’m currently working on **Digitomize**                  
-
-- 🌱 I’m currently learning **Node.js , Mongodb**
+- 🔭 I’m currently **Undergrade in CSE**                 
+- 👯 I’m into **Coding and Problem Solving**
+- 🌱 I’m currently learning **AI,Cloud**
 - 💬 Ask me about **Front end**
 
 - 📫 How to reach me **harshithalfred@gmail.com**                                                    
@@ -34,8 +34,12 @@
 <a href="https://wa.me/qr/4KEWHZ2V7UGVO1" target="blank"> 
 <img align="center" src="https://github.com/HarshithAlfred/HarshithAlfred/assets/120769092/42e441d8-fed1-4828-8293-c48b856951bf" alt="Harshith Alfred" width="40"> 
 </a>
+  <br>
+  
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
+
 </p>
-## 💻 Tech Stack:
+
 <p align="center">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a
@@ -63,14 +67,57 @@
 ![](https://cdn.dribbble.com/users/2918596/screenshots/6783174/seo.gif)
 
 
+![GitHub stats in   short](https://github-stats-alpha.vercel.app/api?username=HarshithAlfred&cc=000&tc=fff&ic=fff&bc=000 "profile")
+![Coading  gif](https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif)
 
+
+
+## 🧑‍💻 Places where You Can see my all coading and programming progress:
+
+<p align="left">
+<a href="https://www.leetcode.com/HarshithAlfred" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HarshithAlfredr" height="30" width="40" /></a>&ensp;
+<a href="https://auth.geeksforgeeks.org/user/HarshithAlfred" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="AnitSarkar" height="30" width="40" /></a>&ensp;
+<a href="https://github.com/HarshithAlfred" target="blank"><img src="https://onmsft.com/wp-content/uploads/2020/04/githubappicon.jpg" alt="@HarshithAlfred" height="30" width="40" /></a>
+</p>
+
+
+# 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Redux ](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshithalfred&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api?username=harshithalfred&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithalfred&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"> </p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshithAlfred&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=HarshithAlfred&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshithAlfred&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshithAlfred&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshithAlfred&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshithAlfred&theme=dark)
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=HarshithAlfred&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshithAlfred3&label=Profile%20views&color=00ff6e&style=flat" alt="HarshithAlfred" /> </p>
+
 
 
 ### ✍️ Random Dev Quote
@@ -78,14 +125,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshithalfred&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-
-
 
 
 
