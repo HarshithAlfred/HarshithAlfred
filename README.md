@@ -1,10 +1,6 @@
 
 
-<img src="https://github.com/HarshithAlfred/HarshithAlfred/assets/120769092/bbbb2038-85e4-4ba8-a6c6-9097444d555c" />
-<video width="320" height="240" autoplay>
-<source src="https://github.com/HarshithAlfred/HarshithAlfred/assets/120769092/bbbb2038-85e4-4ba8-a6c6-9097444d555c" type="video/mp4">
-</video>
-
+<img width="1584" height="396" alt="new linkedin banner (2)" src="https://github.com/user-attachments/assets/1efb4a67-a8b5-4b6a-8e7e-a3568eab568a" />
 
 <h1 align="center">Hi 👋, I'm Harshith Alfred</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
