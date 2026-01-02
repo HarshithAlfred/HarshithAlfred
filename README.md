@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Harshith Alfred</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-[![](https://visitcount.itsvg.in/api?id=harshithalfred&icon=8&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=harshithalfred&label=Profile%20Views&color=blue)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshithalfred&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
