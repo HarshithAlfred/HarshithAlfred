@@ -20,8 +20,13 @@
 - 🌱 I’m currently learning **AI,Cloud**
 - 💬 Ask me about **Front end**
 
-- 📫 How to reach me **harshithalfred@gmail.com**                                                    
+- 📫 How to reach me **harshithalfred@gmail.com**
 
+  <p>
+<a href="https://harshithalfred.github.io/HarshithAlfred/" target="_blank" > 
+Portfolio </a>
+  </p>
+  
 ## **Connect 🌐 with me:**                                                                                     
 <p align="left">
 <a href="https://www.linkedin.com/in/harshith-alfred-99042725a" target="blank">
