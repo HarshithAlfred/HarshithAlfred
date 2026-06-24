@@ -1,6 +1,4 @@
-
-
-<img width="1584" height="396" alt="new linkedin banner (2)" src="https://github.com/user-attachments/assets/1efb4a67-a8b5-4b6a-8e7e-a3568eab568a" />
+<img width="1584" height="396" alt="new linkedin banner (1)" src="https://github.com/user-attachments/assets/2d0f79fc-1907-46f9-8413-b5187d59bb76" />
 
 <h1 align="center">Hi 👋, I'm Harshith Alfred</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
